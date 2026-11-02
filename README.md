@@ -21,9 +21,6 @@ I am trying to solve the problem of planning nutrient-dense meals at dining cour
 
 ## Roadmap
 
-Features you haven't built yet but plan to (pull these from your
-"Schedule" quadrant in the Eisenhower Matrix).
-
 - [ ] Multi-Day Meal Plans
 - [ ] Diet and calorie deficit/surplus
 - [ ] Meal Preferences (weighing against certain disliked foods)
