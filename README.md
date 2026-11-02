@@ -21,6 +21,8 @@ I am trying to solve the problem of planning nutrient-dense meals at dining cour
 
 ## Roadmap
 
+The current MVP will only include ranking dining halls, allergen information, and choosing which nutrients to optimize (default is protein).
+Here are some goals for the future:
 - [ ] Multi-Day Meal Plans
 - [ ] Diet and calorie deficit/surplus
 - [ ] Meal Preferences (weighing against certain disliked foods)
